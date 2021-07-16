@@ -1,0 +1,16 @@
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\bin\Debug\net5.0\Age To Seconds.exe
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\bin\Debug\net5.0\Age To Seconds.deps.json
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\bin\Debug\net5.0\Age To Seconds.runtimeconfig.json
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\bin\Debug\net5.0\Age To Seconds.runtimeconfig.dev.json
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\bin\Debug\net5.0\Age To Seconds.dll
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\bin\Debug\net5.0\ref\Age To Seconds.dll
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\bin\Debug\net5.0\Age To Seconds.pdb
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\obj\Debug\net5.0\Age To Seconds.csproj.AssemblyReference.cache
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\obj\Debug\net5.0\Age To Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\obj\Debug\net5.0\Age To Seconds.AssemblyInfoInputs.cache
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\obj\Debug\net5.0\Age To Seconds.AssemblyInfo.cs
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\obj\Debug\net5.0\Age To Seconds.csproj.CoreCompileInputs.cache
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\obj\Debug\net5.0\Age To Seconds.dll
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\obj\Debug\net5.0\ref\Age To Seconds.dll
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\obj\Debug\net5.0\Age To Seconds.pdb
+C:\Users\angelica\RiderProjects\Age To Seconds\Age To Seconds\obj\Debug\net5.0\Age To Seconds.genruntimeconfig.cache
